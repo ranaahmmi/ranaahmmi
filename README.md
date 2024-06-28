@@ -21,7 +21,7 @@ Hey! I'm Ahmad, a tech enthusiast with a knack for building exceptional digital 
 
 - **LinkedIn:** [linkedin.com/in/ahmad-anjum](https://www.linkedin.com/in/ahmad-anjum)
 - **Portfolio:** [rana-ahmmi.web.app](https://rana-ahmmi.web.app/#/)
-- **Email:** [ahmadanjum62@gmail.com](mailto:ahmadanjum62@gmail.com) *(Replace with your actual email)*
+- **Email:** [ahmadanjum62@gmail.com](mailto:ahmadanjum62@gmail.com) 
 
 ---
 
