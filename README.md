@@ -52,7 +52,7 @@ Hey! I'm Ahmad, a tech enthusiast with a knack for building exceptional digital 
 - **LinkedIn:** [linkedin.com/in/ahmad-anjum](https://www.linkedin.com/in/ahmad-anjum)
 - **Portfolio:** [rana-ahmmi.web.app](https://rana-ahmmi.web.app/#/)
 - **GitHub:** [github.com/ahmadanjum](https://github.com/ahmadanjum)
-- **Twitter:** [twitter.com/ahmadanjumdev](https://twitter.com/ahmadanjumdev)
+- **Twitter:** [twitter.com/ahmadanjumdev](https://twitter.com/ranaahmmi)
 - **Email:** [ahmadanjum62@gmail.com](mailto:ahmadanjum62@gmail.com) 
 
 ---
